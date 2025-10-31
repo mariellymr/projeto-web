@@ -1,0 +1,13 @@
+# Ignorar o arquivo de variáveis de ambiente e senhas
+.env
+
+# Ignorar as pastas de dependências
+/frontend/node_modules
+/backend/node_modules
+
+# Ignorar logs
+*.log
+
+# Ignorar arquivos de sistema (opcional, mas bom)
+.DS_Store
+Thumbs.db
